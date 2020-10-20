@@ -12,6 +12,7 @@ Reference:
 [2] M. Jureczko and L. Madeyski, “Towards identifying software project clusters with regard to defect prediction,” in Proceedings of the 6th International Conference on Predictive Models in Software Engineering - PROMISE ’10, 2010, p. 1.
 
 
+
 ### Author Info
 
 [Google Scholar](https://scholar.google.com/citations?user=tq8viWQAAAAJ&hl=en)
