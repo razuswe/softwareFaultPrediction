@@ -1,4 +1,4 @@
-# Software Fault Prediction using Machine Learning techniques
+# Software Fault Prediction using Machine Learning Techniques
 :link: Research paper link: https://dl.acm.org/citation.cfm?id=3297737#
 ## Article Title: The Impact of Software Fault Prediction in Real-World Application: An Automated Approach for Software Engineering
 ### Abstract:
